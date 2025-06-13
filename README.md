@@ -40,9 +40,9 @@ Icones das linguagens - https://devicon.dev/
 <!--
 Status
 -->
-<a href="https://github.com/ChocolateKest">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChocolateKest&show_icons=true&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChocolateKest&layout=compact&langs_count=16&theme=merko"/>
+<a href="https://github.com/gustavodees">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodees&show_icons=true&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodees&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
 
@@ -51,7 +51,7 @@ GIF da cobrinha comendos os commits
 -->
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChocolateKest/ChocolateKest/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChocolateKest/ChocolateKest/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChocolateKest/ChocolateKest/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavodees/gustavodees/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavodees/gustavodees/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavodees/gustavodees/output/github-contribution-grid-snake.svg">
 </picture>
